@@ -4,7 +4,7 @@ Atualmente faço estágio em uma agência experimental na Etec de Leme, fazendo 
  - Aluna do 2º ano do ensino médio integrado com técnico em Design Gráfico na Etec de Leme;
  - Adoro aprender as coisas por curiosidade;
  - Atualmente estou aprendendo:
-<img width='50' height='50' scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
  - Quero aprender:
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 ## Não tenho redes sociais públicas, mas meu perfil pessoal é:
